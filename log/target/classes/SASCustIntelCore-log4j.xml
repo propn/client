@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<!-- debug="true" is equivalent to -Dlog4j.debug -->
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+    <appender class="org.apache.log4j.RollingFileAppender" name="REDIR_FILE">
+        <param name="datePattern" value="'.'yyyy-MM-dd"/>
+        <param name="append" value="true"/>
+        <param name="Encoding" value="UTF-8"/>
+        <param name="MaxFileSize" value="100MB"/>
+        <param name="MaxBackupIndex" value="100"/>
+        <param name="file"
+value="${config.lev.web.appserver.logs.dir}/SASCustIntelCore6.5.log"/>
+
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{ISO8601} %-5p [%t] [%X{sas.session.id}] [%X{sas.user.name}] %-40.40c - %m%n"/>
+        </layout>
+    </appender>
+    
+    
+    <appender name="ASYNC_FILE" class="org.apache.log4j.AsyncAppender">
+        <param name="BufferSize" value="10000"/>
+        <param name="Blocking" value="false"/>
+        <appender-ref ref="REDIR_FILE"/>
+    </appender>    
+
+    <appender class="com.sas.ci.services.common.log.CIDataAppender" name="SAS_FILE">
+       <appender-ref ref="ASYNC_FILE"/>
+    </appender>
+    
+    <!-- to avoid parsing errors, loggers must come after appenders -->
+    
+    <logger name="com.sas.analytics.crm" additivity="false">
+        <level value="DEBUG"/>
+        <appender-ref ref="SAS_FILE"/>
+    </logger>
+    
+     <logger name="com.sas.analytics.crm.persistence" additivity="false">
+         <level value="WARN"/>
+         <appender-ref ref="SAS_FILE"/>
+     </logger>
+     
+     <!-- Needed to get RTDM/MA license expiration warnings -->
+     <logger name="com.sas.ci.services.common.config" additivity="false">
+         <level value="WARN"/>
+         <appender-ref ref="SAS_FILE"/>
+     </logger>
+    
+     <!-- To get STP and macro logging, make this DEBUG -->
+     <logger name="com.sas.ci.saslogging" additivity="false">
+         <level value="DEBUG"/>
+         <appender-ref ref="SAS_FILE"/>
+     </logger>
+        
+	<logger name="org.springframework" additivity="false">
+        <level value="warn"/>
+        <appender-ref ref="SAS_FILE"/>
+    </logger>
+
+    <root>
+        <priority value="ERROR"/>
+        <appender-ref ref="SAS_FILE"/>
+    </root>
+
+</log4j:configuration>

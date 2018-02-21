@@ -1,0 +1,2265 @@
+[2018-01-26 21:50:00:003] [DEBUG] [method:com.propn.log.App.main(App.java:22)]
+保留文件数量5，日志文件名称为：sas.log
+
+[2018-01-26 21:50:00:003] [DEBUG] [method:com.propn.log.App.main(App.java:22)]
+[.\sas.log.2018-01-26-09-43, .\sas.log.2018-01-26-09-46, .\sas.log.2018-01-26-09-47, .\sas.log.2018-01-26-09-48, .\sas.log.2018-01-26-09-49, .\sas.log]
+
+[2018-01-26 21:50:00:003] [DEBUG] [method:com.propn.log.App.main(App.java:22)]
+删除日志.\sas.log.2018-01-26-09-43
+
+[2018-01-26 21:50:00:003] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:003] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:118] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:118] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:234] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:234] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:334] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:334] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:435] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:435] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:550] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:550] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:650] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:650] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:750] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:750] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:850] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:850] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:00:951] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:00:951] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:051] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:051] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:166] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:166] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:288] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:288] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:389] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:389] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:489] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:489] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:604] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:604] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:720] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:720] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:820] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:820] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:01:920] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:01:920] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:021] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:021] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:121] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:121] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:221] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:221] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:337] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:337] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:437] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:437] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:537] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:537] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:638] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:638] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:738] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:738] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:853] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:853] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:02:953] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:02:953] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:053] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:053] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:169] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:169] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:270] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:270] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:392] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:392] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:492] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:492] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:607] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:607] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:708] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:708] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:808] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:808] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:03:923] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:03:923] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:039] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:039] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:139] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:139] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:239] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:239] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:339] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:339] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:455] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:455] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:555] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:555] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:656] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:656] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:756] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:756] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:871] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:871] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:04:972] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:04:972] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:093] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:093] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:194] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:194] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:309] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:309] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:409] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:409] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:510] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:510] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:625] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:625] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:725] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:725] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:840] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:840] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:05:940] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:05:940] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:056] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:056] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:172] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:172] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:294] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:294] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:394] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:394] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:494] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:494] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:610] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:610] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:710] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:710] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:810] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:810] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:06:926] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:06:926] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:026] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:026] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:126] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:126] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:226] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:226] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:342] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:342] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:442] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:442] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:542] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:542] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:658] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:658] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:759] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:759] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:874] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:874] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:07:996] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:07:996] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:096] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:096] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:197] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:197] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:297] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:297] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:412] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:412] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:512] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:512] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:612] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:612] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:728] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:728] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:828] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:828] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:08:928] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:08:928] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:028] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:028] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:144] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:144] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:244] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:244] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:345] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:345] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:445] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:445] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:545] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:545] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:660] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:660] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:760] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:760] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:876] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:876] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:09:998] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:09:998] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:098] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:098] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:198] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:198] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:298] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:298] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:414] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:414] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:529] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:529] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:630] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:630] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:730] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:730] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:831] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:831] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:10:946] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:10:946] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:046] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:046] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:146] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:146] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:246] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:246] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:362] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:362] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:462] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:462] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:577] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:577] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:699] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:699] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:815] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:815] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:11:916] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:11:916] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:031] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:031] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:131] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:131] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:231] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:231] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:331] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:331] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:432] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:432] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:532] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:532] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:647] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:647] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:747] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:747] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:863] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:863] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:12:979] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:12:979] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:101] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:101] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:216] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:216] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:332] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:332] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:432] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:432] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:532] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:532] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:633] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:633] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:733] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:733] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:833] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:833] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:13:934] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:13:934] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:049] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:049] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:149] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:149] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:265] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:265] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:365] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:365] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:465] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:465] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:565] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:565] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:681] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:681] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:803] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:803] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:14:903] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:14:903] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:019] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:019] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:119] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:119] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:219] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:219] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:319] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:319] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:420] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:420] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:532] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:532] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:635] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:635] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:751] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:751] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:851] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:851] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:15:967] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:15:967] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:082] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:082] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:204] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:204] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:319] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:319] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:420] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:420] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:520] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:520] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:620] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:620] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:736] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:736] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:836] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:836] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:16:951] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:16:951] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:052] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:052] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:152] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:152] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:252] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:252] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:367] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:367] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:468] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:468] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:568] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:568] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:683] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:683] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:805] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:805] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:17:920] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:17:920] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:036] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:036] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:151] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:151] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:252] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:252] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:352] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:352] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:452] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:452] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:552] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:552] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:667] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:667] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:768] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:768] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:868] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:868] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:18:969] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:18:969] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:069] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:069] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:169] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:169] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:284] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:284] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:406] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:406] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:522] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:522] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:622] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:622] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:722] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:722] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:838] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:838] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:19:953] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:19:953] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:054] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:054] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:169] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:169] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:269] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:269] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:369] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:369] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:469] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:469] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:570] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:570] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:670] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:670] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:786] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:786] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:20:908] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:20:908] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:024] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:024] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:124] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:124] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:224] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:224] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:324] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:324] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:424] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:424] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:524] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:524] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:639] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:639] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:740] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:740] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:840] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:840] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:21:955] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:21:955] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:071] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:071] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:171] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:171] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:271] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:271] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:372] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:372] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:487] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:487] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:610] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:610] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:710] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:710] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:811] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:811] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:22:911] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:22:911] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:026] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:026] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:141] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:141] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:241] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:241] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:342] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:342] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:442] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:442] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:542] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:542] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:658] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:658] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:758] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:758] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:858] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:858] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:23:959] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:23:959] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:074] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:074] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:174] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:174] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:290] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:290] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:412] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:412] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:512] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:512] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:612] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:612] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:712] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:712] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:812] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:812] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:24:928] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:24:928] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:028] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:028] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:128] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:128] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:228] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:228] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:328] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:328] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:428] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:428] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:528] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:528] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:628] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:628] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:728] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:728] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:829] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:829] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:25:929] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:25:929] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:029] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:029] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:129] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:129] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:229] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:229] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:329] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:329] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:444] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:444] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:545] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:545] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:645] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:645] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:745] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:745] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:846] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:846] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:26:961] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:26:961] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:062] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:062] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:177] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:177] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:277] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:277] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:377] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:377] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:478] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:478] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:578] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:578] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:678] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:678] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:778] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:778] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:879] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:879] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:27:994] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:27:994] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:116] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:116] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:232] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:232] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:332] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:332] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:447] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:447] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:548] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:548] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:648] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:648] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:748] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:748] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:863] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:863] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:28:963] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:28:963] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:064] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:064] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:179] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:179] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:295] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:295] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:417] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:417] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:517] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:517] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:617] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:617] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:717] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:717] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:818] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:818] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:29:918] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:29:918] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:018] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:018] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:133] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:133] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:249] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:249] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:365] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:365] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:480] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:480] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:595] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:595] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:717] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:717] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:818] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:818] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:30:933] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:30:933] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:049] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:049] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:164] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:164] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:265] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:265] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:380] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:380] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:480] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:480] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:580] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:580] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:681] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:681] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:796] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:796] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:31:918] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:31:918] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:034] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:034] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:149] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:149] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:265] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:265] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:365] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:365] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:465] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:465] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:566] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:566] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:681] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:681] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:797] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:797] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:32:919] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:32:919] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:019] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:019] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:135] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:135] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:235] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:235] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:351] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:351] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:466] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:466] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:566] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:566] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:667] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:667] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:767] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:767] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:867] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:867] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:33:967] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:33:967] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:083] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:083] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:183] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:183] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:283] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:283] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:384] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:384] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:484] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:484] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:600] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:600] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:722] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:722] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:823] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:823] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:34:923] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:34:923] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:023] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:023] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:138] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:138] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:238] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:238] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:338] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:338] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:454] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:454] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:554] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:554] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:654] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:654] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:754] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:754] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:870] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:870] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:35:986] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:35:986] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:101] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:102] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:223] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:223] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:323] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:323] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:424] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:424] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:539] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:539] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:640] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:640] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:740] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:740] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:840] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:840] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:36:940] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:36:940] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:056] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:056] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:156] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:156] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:272] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:272] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:387] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:387] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:487] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:487] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:588] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:588] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:704] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:704] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:826] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:826] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:37:926] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:37:926] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:042] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:042] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:142] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:142] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:258] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:258] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:358] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:358] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:474] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:474] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:574] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:574] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:690] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:690] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:805] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:805] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:38:927] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:38:927] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:027] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:027] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:127] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:127] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:243] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:243] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:343] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:343] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:459] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:459] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:559] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:559] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:659] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:659] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:775] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:775] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:875] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:875] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
+[2018-01-26 21:50:39:975] [INFO ] [method:com.propn.log.App.main(App.java:22)]
+Thread.currentThread().sleep(100)
+
+[2018-01-26 21:50:39:975] [DEBUG] [method:com.propn.log.App.main(App.java:16)]
+time:${1}
+
